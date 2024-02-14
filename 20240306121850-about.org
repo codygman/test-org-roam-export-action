@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4c055658-d297-4c95-9511-78418a252245
+:END:
+#+title: About
+#+category: About
+
+This is an org roam about:
+
+- [[id:0a35a31e-5f97-472f-a074-4489af667503][Test node one]]
+- [[id:0dd6fc9f-a117-4f5f-9755-334cafad5858][test node two]]

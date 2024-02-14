@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0a35a31e-5f97-472f-a074-4489af667503
+:END:
+#+title: Test node one
+#+category: Test node one
+
+[[id:0dd6fc9f-a117-4f5f-9755-334cafad5858][test node two]]
